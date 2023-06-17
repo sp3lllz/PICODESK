@@ -22,3 +22,5 @@ Pimoroni TOF Sensor (functionality is WIP) - https://thepihut.com/products/vl53l
 Pi Pico Legs (if you didnt order one with legs pre soldered) and Micro USB Cable - https://thepihut.com/products/essential-raspberry-pi-pico-kit
 
 4 Cherry MX style Keycaps of your choice.
+
+See assembly.md for futher instructions.
