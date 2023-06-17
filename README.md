@@ -8,7 +8,7 @@ Doing this modification requires breaking open the opriginal controller in order
 
 This project is designed to be fairly plug and play as well as low cost and invole minimal soldering, as a result i am using plug and play pi pico hats and mechanicial keyboard switches for the buttons. In the future I do plan on designing a more sleek version that some of the components intergrated more into the pcb such as the relays but that is a while off yet.
 
-Here is what you will need for this project
+## Here is what you will need for this project
 
 Order the PCB from your PCB fabrication house of choice such as oshpark, JCLPCB or PCBway. Simply download the gerber zip file and upload it to their ordering system you shoudlnt need to chnage any settings but most might give you a pcb colour choice so go crazy!
 
