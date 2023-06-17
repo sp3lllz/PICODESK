@@ -1,3 +1,8 @@
+#PICODESK SELF TEST
+#SP3LLZ 2023
+#v1.1
+
+
 print('Hello what is your name?')
 name = input()
 print('What is the password?')
