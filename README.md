@@ -12,10 +12,15 @@ Order the PCB from your PCB fabrication house of choice such as oshpark, JCLPCB 
 
 Other components needed are:
 Pi Pico W (Pi Pico will work for core functionality but at some point i plan to add a web interface for controll so pi pico w is reccomended) - https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico-w
+
 Waveshare Pico OLED 2.23 - https://thepihut.com/products/2-23-oled-display-module-for-raspberry-pi-pico 
+
 SBC Dual Channel Relay HAT - https://thepihut.com/products/dual-channel-relay-hat-for-raspberry-pi-pico
+
 Pimoroni TOF Sensor (functionality is WIP) - https://thepihut.com/products/vl53l1x-time-of-flight-tof-sensor-breakout
+
 Pi Pico Legs (if you didnt order one with legs pre soldered) and Micro USB Cable - https://thepihut.com/products/essential-raspberry-pi-pico-kit
+
 4 Cherry MX style Keycaps of your choice.
 
 Next you need to flash your pico with the latest micropython firmware that is linked on the pi documentation page https://datasheets.raspberrypi.com/
