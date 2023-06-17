@@ -23,4 +23,4 @@ Pi Pico Legs (if you didnt order one with legs pre soldered) and Micro USB Cable
 
 4 Cherry MX style Keycaps of your choice.
 
-See assembly.md for futher instructions.
+See assembly.md for futher instructions. https://github.com/sp3lllz/PICODESK/blob/main/assembly.md
